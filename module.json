@@ -1,0 +1,11 @@
+{
+  "name": "calliope-motor-pwm-test",
+  "version": "1.0.0",
+  "description": "Calliope mini Test of Motor functions and PWM",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "microbit": "calliope-mini/microbit#v2.0.0-rc8-calliope-1.0.2"
+  },
+  "targetDependencies": {},
+  "bin": "./source"
+}
